@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://tomkevin.github.io/portfolio/",
+  "homepage": "https://tomkevin.github.io/portfolio",
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.10.17",
     "react": "^16.8.6",
